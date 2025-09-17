@@ -1,12 +1,26 @@
-# React + Vite
+# 🗺️ AI Trip Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Trip Planner is a web application built with **React (Vite)** and **Firebase** that helps users plan their trips intelligently with AI assistance.  
+It provides a smooth, responsive interface and uses Firebase for authentication, database, and hosting.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔐 **Authentication** with Firebase (Google login support)
+- 🤖 **AI-powered trip planning** for personalized itineraries
+- 💾 **Cloud storage & database** with Firebase
+- ⚡ **Fast development** powered by Vite + React
+- 📱 **Responsive UI** for mobile and desktop
+- ☁️ **Firebase hosting** for easy deployment
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, TailwindCSS
+- **Backend/Services:** Firebase (Auth, Firestore, Hosting, Storage)
+- **AI Integration:** OpenAI / API-based trip recommendations
+- **Tooling:** ESLint, Prettier
+
+---
+
+## 📂 Project Structure
