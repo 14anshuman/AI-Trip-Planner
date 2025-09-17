@@ -38,3 +38,44 @@ AI-Trip-Planner/
 ├── package.json
 └── vite.config.js
 ```
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/14anshuman/AI-Trip-Planner.git
+   cd AI-Trip-Planner
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. **Setup Firebase and Google Maps Environment Variables**
+   ```bash
+   VITE_FIREBASE_API_KEY=your_api_key
+   VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+   VITE_FIREBASE_PROJECT_ID=your_project_id
+   VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+   VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+   VITE_FIREBASE_APP_ID=your_app_id
+   VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
+   VITE_GOOGLE_MAP_API_KEY=your_api_key
+   ```
+5. **Run the development server**
+  ```bash
+     npm run dev
+  ```
+5. **Build for production**
+  ```bash
+     npm run build
+  ```
+5. **Deploy to Firebase Hosting**
+  ```bash
+     firebase deploy
+  ```
+
+## 🤝 Contributing
+  Contributions, issues, and feature requests are welcome!
+  Feel free to fork this repo and submit a PR.
