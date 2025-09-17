@@ -49,7 +49,7 @@ export default function CreateTrip() {
 
   const travelCompanion = [
     { label: "Solo", value: 1, icon: "🧍🏻", desc: "Just me" },
-    { label: "Couple", value: 2, icon: "💕", desc: "Romantic getaway" },
+    { label: "Couple", value: 2, icon: "💕", desc: "Romantic gateway" },
     { label: "Family", value: "family", icon: "👨‍👩‍👧‍👦", desc: "Family fun" },
     { label: "Friends", value: "friends", icon: "🎉", desc: "Squad goals" },
   ];
