@@ -4,7 +4,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 const Footer = () => {
   return (
     
-  <footer className="w-full bg-white text-center py-6 shadow-inner">
+  <footer className="w-full bg-white text-center py-6">
   <p className="text-sm font-medium tracking-wide">
     <span className="text-blue-600">© {new Date().getFullYear()}</span>{" "}
     <span className="text-gray-700">AI Trip Planner</span>{" "}
