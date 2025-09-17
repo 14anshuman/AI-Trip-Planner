@@ -24,3 +24,17 @@ It provides a smooth, responsive interface and uses Firebase for authentication,
 ---
 
 ## 📂 Project Structure
+```bash
+AI-Trip-Planner/
+├── public/ # Static assets
+├── src/ # Main application code
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # App pages (Home, Planner, etc.)
+│ ├── services/ # Firebase & API services
+│ ├── App.jsx # Root component
+│ └── main.jsx # App entry point
+├── .env # Environment variables (not committed)
+├── .gitignore
+├── package.json
+└── vite.config.js
+```
