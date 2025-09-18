@@ -34,7 +34,7 @@ const DaysCard = ({ place, index }) => {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.2, ease: "linear" }}
       viewport={{ once: false, amount: 0.1 }} // 👈 every time it enters viewport
-      className="rounded-lg overflow-hidden shadow-md border border-gray-300 
+      className="rounded-2xl overflow-hidden shadow-md border border-gray-300 
                  hover:shadow-xl transition-transform duration-300 
                  bg-gradient-to-r from-slate-100 to-gray-200 flex flex-row h-[280px] my-4"
     >
