@@ -37,7 +37,7 @@ const HotelCard = ({ item, index }) => {
       >
         <div
           key={index}
-          className="rounded-full  overflow-hidden shadow-md hover:shadow-xl bg-gradient-to-r from-slate-100 to-gray-200 transition-shadow duration-300 cursor-pointer  "
+          className="rounded-2xl  overflow-hidden shadow-md hover:shadow-xl bg-gradient-to-r from-slate-100 to-gray-200 transition-shadow duration-300 cursor-pointer  "
         >
           <img
             src={photoUrl} // fallback to placeholder if missing
