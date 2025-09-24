@@ -2,9 +2,7 @@
 
 AI Trip Planner is a smart web application built with **⚛️ React (Vite)** and **🔥 Firebase** that helps travelers plan their journeys with the power of **🤖 Artificial Intelligence**.  
 Whether you're exploring new destinations 🌍, planning weekend getaways 🏖️, or organizing business trips 🏢, AI Trip Planner generates **personalized itineraries**, suggests **places to visit 🏛️, food to try 🍜, and activities to enjoy 🎉** — all tailored to your preferences.  
-
 ---
-
 ## 🌟 Why AI Trip Planner?
 - 🚀 **Fast & Modern** – Built with React + Vite for blazing-fast performance.  
 - 🔐 **Secure** – Uses Firebase Authentication (Google Sign-In).  
