@@ -54,10 +54,10 @@ const DaysCard = ({ place, index }) => {
         <p className="text-sm text-gray-600 mb-2 line-clamp-3">
           {place?.placeDetails}
         </p>
-        <p className="text-sm font-medium text-blue-500">
+        <p className="text-sm font-medium mb-1 text-blue-500">
           ⏳Opening time: {place?.openingHours || "Not Available"}
         </p>
-        <p className="text-sm font-medium">
+        <p className="text-sm mb-1 font-medium">
           {typeof place?.ticketPricing === "string" &&
           place?.ticketPricing?.length > 0
             ? `🎟 Ticket Price: ${place?.ticketPricing}`
