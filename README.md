@@ -37,7 +37,6 @@ AI-Trip-Planner/
 ├── package.json
 └── vite.config.js
 ```
-
 ---
 
 ## ⚙️ Setup & Installation
