@@ -12,7 +12,6 @@ Whether you're exploring new destinations 🌍, planning weekend getaways 🏖�
 - ☁️ **One-Click Deploy** – Easily deployable with Firebase Hosting.  
 
 ---
-
 ## 🛠️ Tech Stack
 - ⚛️ **React (Vite)** – Fast front-end development  
 - 🎨 **TailwindCSS** – Modern UI styling  
